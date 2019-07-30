@@ -1,0 +1,5 @@
+com\pradeep\bdt\stepDefinitions\AgileNcrAppNormal.class
+com\pradeep\bdt\stepDefinitions\Hooks.class
+com\pradeep\bdt\pages\Android\AppiumTest.class
+com\pradeep\bdt\pages\Android\DriverFactory.class
+com\pradeep\bdt\pages\Android\AgendaPage.class
